@@ -1,0 +1,35 @@
+# Core Django
+Django==5.0.1
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+
+# API Framework
+djangorestframework==3.14.0
+
+# Celery & Task Queue
+celery==5.3.4
+redis==5.0.1
+django-celery-beat==2.5.0
+
+# Stock Data APIs
+yfinance==0.2.37
+nsepython==2.2
+pandas==2.2.0
+numpy==1.26.3
+
+# AI - Anthropic Claude
+anthropic==0.18.1
+
+# Telegram Bot
+python-telegram-bot==20.7
+
+# Utilities
+pytz==2023.3
+python-dateutil==2.8.2
+requests==2.31.0
+
+# Database
+sqlparse==0.4.4
+
+# Development Tools
+django-extensions==3.2.3
