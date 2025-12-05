@@ -243,5 +243,4 @@ This tool is for educational and personal use only. It is not financial advice. 
 ---
 
 **Created by**: Chirag Gulati
-**Contact**: chirag.gulati@reckitt.com
 **GitHub**: [@cgulati198](https://github.com/cgulati198)
