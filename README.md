@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![AI](https://img.shields.io/badge/-Claude%20AI-10A37F?style=flat-square&logo=OpenAI&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
 # Nifty AI Trader
 
 AI-powered stock tracking and trading recommendations for Indian Nifty stocks using Claude API.
